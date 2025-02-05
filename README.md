@@ -4,10 +4,10 @@ Here's a comprehensive README.md for your HEKTO e-commerce project:
 
 # HEKTO - Modern E-commerce Platform
 
-[![HEKTO Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://hekto-demo.vercel.app)
+[![HEKTO Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://heiko-31fbb.web.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![HEKTO Banner](https://via.placeholder.com/1920x600.png?text=HEKTO+E-commerce+Platform)
+![HEKTO Banner](https://www.bypeople.com/wp-content/uploads/2022/05/ecommerce-ui-kit.png)
 
 HEKTO is a modern headless e-commerce platform built with Next.js and Sanity.io, featuring an intuitive admin dashboard and seamless content management.
 
